@@ -1,4 +1,5 @@
-
+Demo App
+deploy URI = https://chat-app-deploy-s7rb.onrender.com
 
 Introduction
 This is a fully-featured real-time chat application built using the MERN stack (MongoDB, Express, React, Node.js) along with additional powerful technologies like Socket.io for real-time communication and TailwindCSS for styling. Users can create accounts, log in, and chat with their friends seamlessly. This project showcases my ability to build and deploy a complex web application from scratch, making it a perfect demonstration of my skills for internship opportunities.
@@ -66,4 +67,12 @@ Handle real-time data with WebSockets.
 Manage application state efficiently.
 Deploy applications for public use.
 
+# Demo credentials
 
+username :- LS
+password :- 123456
+
+# For any inquiries or further information, please contact me at:
+
+Email: vedika.rotti@gmail.com
+GitHub: https://github.com/vedikarotti
